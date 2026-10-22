@@ -43,22 +43,22 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg" />
-  <img src="./profile/streak-dark.svg" alt="Sequência de contribuições" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/streak-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/streak-light.svg" />
+  <img src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/streak-dark.svg" alt="Sequência de contribuições" width="100%" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
-  <img src="./profile/stats-dark.svg" alt="Estatísticas do GitHub" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/stats-light.svg" />
+  <img src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/stats-dark.svg" alt="Estatísticas do GitHub" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/languages-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/languages-light.svg" />
-  <img src="./profile/languages-dark.svg" alt="Linguagens mais utilizadas" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/languages-light.svg" />
+  <img src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/languages-dark.svg" alt="Linguagens mais utilizadas" width="49%" />
 </picture>
 
 </div>
