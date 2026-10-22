@@ -58,13 +58,11 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 
 ## 🐍 Histórico de contribuições
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake-dark.gif"
-    alt="Animação das contribuições no tema escuro"
-    width="100%"
-  />
-</div>
+<img
+  src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake-dark.svg"
+  alt="Histórico de contribuições no tema escuro"
+  width="100%"
+/>
 
 ## 📫 Contato
 
