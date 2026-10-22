@@ -17,9 +17,9 @@ jobs:
         with:
           github_user_name: Mikezinx3
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif?color_snake=%2300D9FF
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/github-snake-dark.gif?color_snake=%2300D9FF&color_dots=%230D1117,%23161B22,%23212830,%2330363D,%2339D353
 
       - name: Publicar arquivos na branch output
         uses: peaceiris/actions-gh-pages@v4
