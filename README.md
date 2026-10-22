@@ -41,10 +41,18 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Mikezinx3&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Estatísticas do GitHub">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikezinx3&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais utilizadas">
-  <br>
-  <img width="96%" src="https://streak-stats.demolab.com?user=Mikezinx3&theme=tokyonight&hide_border=true" alt="Sequência de contribuições">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mikezinx3&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Mikezinx3&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=0891B2&amp;ring=7C3AED&amp;fire=059669&amp;currStreakLabel=0891B2&amp;sideLabels=475569&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=94A3B8&amp;titleColor=0891B2" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Mikezinx3&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE" alt="Sequência de contribuições" />
+</picture>
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mikezinx3&amp;show_icons=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0A101F" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikezinx3&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;bg_color=0A101F" alt="Linguagens mais utilizadas" />
+
 </div>
 
 ## 🧪 Laboratórios e projetos
@@ -58,16 +66,18 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 
 ## 🐍 Histórico de contribuições
 
-<img
-  src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake-dark.svg"
-  alt="Histórico de contribuições no tema escuro"
-  width="100%"
-/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake-dark.svg" alt="Animação das contribuições" width="100%" />
+  </picture>
+</div>
 
 ## 📫 Contato
 
 - GitHub: [@Mikezinx3](https://github.com/Mikezinx3)
-- Acrescente aqui seu LinkedIn ou portfólio quando quiser divulgá-los.
+- LinkedIn em breve.
 
 ---
 
