@@ -61,9 +61,9 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake.gif"
-    alt="Animação da cobra percorrendo minhas contribuições do GitHub"
+    alt="Animação da cobra percorrendo o gráfico de contribuições"
     width="100%"
-  >
+  />
 </div>
 
 ## 📫 Contato
