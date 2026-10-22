@@ -43,15 +43,23 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mikezinx3&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Mikezinx3&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=0891B2&amp;ring=7C3AED&amp;fire=059669&amp;currStreakLabel=0891B2&amp;sideLabels=475569&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=94A3B8&amp;titleColor=0891B2" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Mikezinx3&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE" alt="Sequência de contribuições" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg" />
+  <img src="./profile/streak-dark.svg" alt="Sequência de contribuições" width="100%" />
 </picture>
 
 <br/>
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Mikezinx3&amp;show_icons=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0A101F" alt="Estatísticas do GitHub" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mikezinx3&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;bg_color=0A101F" alt="Linguagens mais utilizadas" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+  <img src="./profile/stats-dark.svg" alt="Estatísticas do GitHub" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/languages-light.svg" />
+  <img src="./profile/languages-dark.svg" alt="Linguagens mais utilizadas" width="49%" />
+</picture>
 
 </div>
 
