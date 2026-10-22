@@ -50,8 +50,8 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mikezinx3&amp;show_icons=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0A101F" alt="Estatísticas do GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikezinx3&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;bg_color=0A101F" alt="Linguagens mais utilizadas" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Mikezinx3&amp;show_icons=true&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0A101F" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mikezinx3&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;bg_color=0A101F" alt="Linguagens mais utilizadas" />
 
 </div>
 
