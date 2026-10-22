@@ -59,11 +59,11 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 ## 🐍 Histórico de contribuições
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake.svg">
-    <img alt="Animação do gráfico de contribuições" src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake.svg" width="100%">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/output/github-snake.gif"
+    alt="Animação da cobra percorrendo minhas contribuições do GitHub"
+    width="100%"
+  >
 </div>
 
 ## 📫 Contato
@@ -75,6 +75,6 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 
 <div align="center">
 
-*Aprendendo na prática. Evoluindo continuamente.*
+_Aprendendo na prática. Evoluindo continuamente._
 
 </div>
