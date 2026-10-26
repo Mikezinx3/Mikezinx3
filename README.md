@@ -40,28 +40,26 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img src="./profile/streak-dark.svg"
+       alt="Sequência de contribuições"
+       width="100%" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/streak-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/streak-light.svg" />
-  <img src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/streak-dark.svg" alt="Sequência de contribuições" width="100%" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/stats-light.svg" />
-  <img src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/stats-dark.svg" alt="Estatísticas do GitHub" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/languages-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/languages-light.svg" />
-  <img src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/languages-dark.svg" alt="Linguagens mais utilizadas" width="49%" />
-</picture>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./profile/stats-dark.svg"
+           alt="Estatísticas do GitHub"
+           width="100%" />
+    </td>
+    <td width="50%">
+      <img src="./profile/languages-dark.svg"
+           alt="Linguagens mais utilizadas"
+           width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## 🧪 Laboratórios e projetos
 
