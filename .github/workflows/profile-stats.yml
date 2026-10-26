@@ -53,13 +53,13 @@ jobs:
       - name: Criar sequência no tema escuro
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=Mikezinx3&background=0D1117&hide_border=true&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&disable_animations=true
+          options: user=Mikezinx3&background=0D1117&hide_border=true&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B
           path: profile/streak-dark.svg
 
       - name: Criar sequência no tema claro
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=Mikezinx3&background=FFFFFF&hide_border=true&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&disable_animations=true
+          options: user=Mikezinx3&background=FFFFFF&hide_border=true&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B
           path: profile/streak-light.svg
 
       - name: Converter cartões SVG para PNG
@@ -75,7 +75,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg profile/*.png
+          git add profile/*.svg
 
           if git diff --cached --quiet; then
             echo "Os cartões já estão atualizados."
