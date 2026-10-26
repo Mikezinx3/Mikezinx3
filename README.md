@@ -41,25 +41,25 @@ Estudando, construindo laboratórios e documentando minha evolução na tecnolog
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="./profile/streak-dark.svg"
-       alt="Sequência de contribuições"
-       width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/streak-dark.png?v=2"
+    alt="Sequência de contribuições"
+    width="100%"
+  />
 </p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="./profile/stats-dark.svg"
-           alt="Estatísticas do GitHub"
-           width="100%" />
-    </td>
-    <td width="50%">
-      <img src="./profile/languages-dark.svg"
-           alt="Linguagens mais utilizadas"
-           width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/stats-dark.png?v=2"
+    alt="Estatísticas do GitHub"
+    width="49%"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Mikezinx3/Mikezinx3/main/profile/languages-dark.png?v=2"
+    alt="Linguagens mais utilizadas"
+    width="49%"
+  />
+</p>
 
 ## 🧪 Laboratórios e projetos
 

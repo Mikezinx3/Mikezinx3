@@ -62,11 +62,20 @@ jobs:
           options: user=Mikezinx3&background=FFFFFF&hide_border=true&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&disable_animations=true
           path: profile/streak-light.svg
 
+      - name: Converter cartões SVG para PNG
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin
+
+          rsvg-convert -w 1000 -o profile/streak-dark.png profile/streak-dark.svg
+          rsvg-convert -w 600 -o profile/stats-dark.png profile/stats-dark.svg
+          rsvg-convert -w 600 -o profile/languages-dark.png profile/languages-dark.svg
+
       - name: Salvar cartões no repositório
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/*.svg profile/*.png
 
           if git diff --cached --quiet; then
             echo "Os cartões já estão atualizados."
